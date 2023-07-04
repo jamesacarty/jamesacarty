@@ -1,5 +1,4 @@
 ### Hi there 👋
-![jamesacarty_1080](https://github.com/jamesacarty/jamesacarty/assets/138507422/6ddd765a-3e77-4c23-9c15-438ca99be040)
 
 <!--
 **jamesacarty/jamesacarty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
