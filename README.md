@@ -1,4 +1,4 @@
-### Hi there 👋
+An experienced and degree-level qualified Graphic Designer looking to bolster their Software Development.
 
 <!--
 **jamesacarty/jamesacarty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
